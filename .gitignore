@@ -1,0 +1,6 @@
+.env
+label_encoder.pkl
+language_model.h5
+predictions.db
+pipeline.pkl
+notes.txt
